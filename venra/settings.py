@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-obf3=co=p-_ss4plp4+$82o-_$@)ab9r6+a-&xxbv+*+2)o_$i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['venra.onrender.com']
 
 
 # Application definition
